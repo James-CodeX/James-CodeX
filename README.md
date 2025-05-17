@@ -29,7 +29,7 @@ I love playing around with layout, color, and typography—especially when it en
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Convex](https://img.shields.io/badge/-Convex-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,[custom base64])
+![Convex](https://img.shields.io/badge/-Convex-0F172A?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -58,8 +58,8 @@ Always leveling up—technically and creatively.
 
 ### 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username/) *(add your actual link)*
-- 🐦 [Twitter/X](https://twitter.com/yourhandle) *(if you want)*
+- 💼 [LinkedIn](https://jameskaranja.netlify.app/www.linkedin.com/in/james-karanja-4m42ing)
+- 🐦 [Twitter/X](https://x.com/itsjaymohke)
 - 📬 Open to collabs, questions, or just a friendly hello!
 
 ---
