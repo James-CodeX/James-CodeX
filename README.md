@@ -1,38 +1,25 @@
+## 👋 Hey there! I'm James
 
-# **Hi, I’m James! 👋**  
-### **⚡ Electronics & Computer Engineering Student | Code + Circuits = Magic**  
+I'm a curious developer, engineering student, and self-taught graphics designer who loves bringing ideas to life—whether that’s through code, visuals, or both. From building full-stack web apps to sketching out designs in Figma, I’m all about creativity backed by solid logic.
 
-Welcome to my GitHub! I’m the kind of person who gets excited when a LED blinks for the first time or when my code finally compiles without errors. I’m on a mission to make the world smarter, one byte (and wire) at a time.  
+### 🎨 Design Meets Code
+I'm not a pro designer (yet), but I love playing around with layout, color, and typography—especially when it makes the user experience smoother and more beautiful. You'll usually find me balancing code with a touch of Figma or Photoshop.
 
----
+### ⚙️ Tech & Tools I Use
+- **Frontend**: react, HTML/CSS, JavaScript
+- **Backend**: Node.js, Firebase, Supabase, convex
+- **Design**: Figma, Photoshop, Canva, Adobe Illustrator
+- **Other**: Git, VS Code, Chrome DevTools, Vibe Coder
 
-## **What I Do**  
-- **🔧 Build Stuff:** From embedded systems to IoT gadgets, I love creating things that blink, beep, and talk to the cloud.  
-- **💻 Write Code:** C/C++, Python, and whatever language the project demands (yes, even Assembly if I’m feeling brave).  
-- **🤖 Automate Life:** Why do things manually when you can write a script to do it for you?  
+### 📚 Forever Learning
+I’m deep into Iot development, AI, Engineering—you know, the fun stuff. Always leveling up both technically and creatively.
 
----
+### Check out My Portfolio Website
+https://jameskaranja.netlify.app/
 
-## **My Projects**  
-Here are some things I’ve built (or attempted to build):  
-- **🌐 IoT Weather Station:** Because I like knowing if it’s raining without looking out the window.  
-- **🤖 Line-Following Robot:** It’s like a Roomba, but way less useful.  
-- **💡 Smart Home System:** My lights now turn on when I clap. My neighbors hate me.  
-
----
-
-## **Fun Facts About Me**  
-- I can debug code and circuits at the same time (multitasking level: expert).  
-- I speak both binary and sarcasm fluently.  
-- My idea of a good time is soldering at 2 AM.  
+### 📫 Let’s Connect
+Check out my projects, drop a message, or just say hey. I’m down to collab, learn, or help out if I can!
 
 ---
 
-## **Current Obsessions**  
-- **🤔 RTOS:** Because who doesn’t love real-time chaos?  
-- **🧠 Machine Learning:** Teaching machines to think so I don’t have to.  
-- **🔌 FPGA Programming:** Turning hardware into software and confusing everyone in the process.  
-
----
-
-## **Let’s Connect!**  
+Thanks for visiting 👨‍💻🎨🚀
