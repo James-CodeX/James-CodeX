@@ -9,14 +9,6 @@ I'm a curious developer, engineering student, and self-taught graphics designer 
 
 ---
 
-### 🎨 Design Meets Code
-
-> _“Not a pro designer (yet)... but getting there!”_
-
-I love playing around with layout, color, and typography—especially when it enhances UX. You'll usually find me balancing code with a touch of Figma or Photoshop.
-
----
-
 ### ⚙️ Tech & Tools I Use
 
 #### 💻 Languages & Frameworks  
