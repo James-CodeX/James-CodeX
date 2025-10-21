@@ -46,7 +46,7 @@ Always leveling up—technically and creatively.
 ---
 
 ### 🌐 Check out My Portfolio  
-🔗 [jameskaranja.netlify.app](https://jameskaranja.netlify.app)
+🔗 [jameskaranja.netlify.app](https://jameskaranja.me)
 
 ---
 
