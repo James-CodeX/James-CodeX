@@ -46,13 +46,13 @@ Always leveling up—technically and creatively.
 ---
 
 ### 🌐 Check out My Portfolio  
-🔗 [jameskaranja.netlify.app](https://jameskaranja.me)
+🔗 [Portfolio](https://jameskaranja.me)
 
 ---
 
 ### 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://jameskaranja.netlify.app/www.linkedin.com/in/james-karanja-4m42ing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/james-karanja-4m42ing)
 - 🐦 [Twitter/X](https://x.com/itsjaymohke)
 - 📬 Open to collabs, questions, or just a friendly hello!
 
