@@ -1,119 +1,150 @@
+<!-- TERMINAL AESTHETIC README -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,100:f1f5f9&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3" width="100%"/>
 
-<br/><br/>
+```
+███████╗███████╗██████╗  ██████╗     ██████╗ █████╗ ██╗
+╚══███╔╝██╔════╝██╔══██╗██╔═══██╗   ██╔════╝██╔══██╗██║
+  ███╔╝ █████╗  ██████╔╝██║   ██║   ██║     ███████║██║
+ ███╔╝  ██╔══╝  ██╔══██╗██║   ██║   ██║     ██╔══██║██║
+███████╗███████╗██║  ██║╚██████╔╝   ╚██████╗██║  ██║███████╗
+╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═════╝╚═╝  ╚═╝╚══════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=1&pause=99999&color=0f172a&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Alex+Chen." />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=15&duration=1&pause=99999&color=64748b&center=true&vCenter=true&repeat=false&width=700&height=30&lines=Software+Engineer+%E2%80%94+San+Francisco%2C+CA" />
-
-<br/>
-
----
-
-*I write code like I'm writing an essay. Every line should earn its place.*
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%24+whoami;%3E+full-stack+engineer+%7C+open+source+maintainer+%7C+systems+tinkerer;%24+_)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-**Currently** — Senior Engineer at a climate-tech startup, working on infrastructure that helps measure carbon capture at scale. Previously at two failed startups (learned more from those) and one acquisition (learned what not to repeat).
+```bash
+$ cat /etc/profile.d/alex.sh
+```
 
-**Philosophy** — Software is a craft. I care about the boundary between good and great, and I spend most of my time in that gap. I write things down. I delete more than I keep.
+```sh
+# -----------------------------------------------
+# IDENTITY
+# -----------------------------------------------
+export NAME="Alex Chen"
+export LOCATION="San Francisco, CA 🌁"
+export ROLE="Senior Software Engineer"
+export PRONOUNS="he/him"
 
-**Outside work** — Competitive road cyclist. Amateur bread baker. I maintain a small newsletter about engineering decisions that don't make it into the post-mortems.
+# -----------------------------------------------
+# CURRENT MISSION
+# -----------------------------------------------
+export WORKING_ON="A distributed job queue in Rust"
+export LEARNING="WASM + WASI, eBPF, and why my sleep schedule broke"
+export OPEN_TO="Interesting problems. Weird ideas. Remote-first."
 
-<br/>
-
----
-
-### Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`forge`** — *A terminal-based PR review tool*
-
-Pulls context from linear, slack, and git to give you everything you need before you open a diff. Used daily by 400+ engineers.
-
-`TypeScript` `CLI` `GraphQL`
-
-</td>
-<td width="50%" valign="top">
-
-**`atlas`** — *Geographic data viz for the browser*
-
-WebGL-powered choropleth maps with zero dependencies. Renders 1M+ data points without breaking a sweat.
-
-`WebGL` `Canvas API` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`nudge`** — *Accessibility linting for design tokens*
-
-Catches contrast ratio violations, missing ARIA roles, and color-blind-unfriendly palettes in CI.
-
-`Node.js` `Figma API` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-**`tempo`** — *Async standup for distributed teams*
-
-Written during a bout of meeting fatigue. Integrates with Slack and exports to Notion.
-
-`Next.js` `Postgres` `Resend`
-
-</td>
-</tr>
-</table>
+# -----------------------------------------------
+# PRINCIPLES
+# -----------------------------------------------
+export BELIEVES_IN=(
+  "code review is a conversation, not a gate"
+  "documentation is a love letter to future-you"
+  "premature optimization is still the root of all evil"
+  "shipping > perfecting"
+)
+```
 
 <br/>
 
----
+```bash
+$ ls -la ~/tech-stack/
+```
 
-### Numbers, because they're honest
+```
+drwxr-xr-x  languages/
+  ├── typescript.ts     [████████████████████] mastery
+  ├── python.py         [████████████████░░░░] proficient
+  ├── rust.rs           [███████████░░░░░░░░░] learning
+  └── go.go             [████████████████░░░░] proficient
+
+drwxr-xr-x  frontend/
+  ├── react/next.js     [████████████████████] mastery
+  ├── tailwindcss       [████████████████████] mastery
+  └── three.js/webgl    [████████████░░░░░░░░] intermediate
+
+drwxr-xr-x  backend/
+  ├── node.js           [████████████████████] mastery
+  ├── postgresql        [██████████████████░░] advanced
+  └── redis             [████████████████░░░░] proficient
+
+drwxr-xr-x  infra/
+  ├── docker            [████████████████████] mastery
+  ├── kubernetes        [█████████████░░░░░░░] intermediate
+  └── aws               [██████████████████░░] advanced
+```
+
+<br/>
+
+```bash
+$ git log --oneline --graph --all --stat HEAD~30
+```
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=alexchen&show_icons=true&theme=default&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0f172a&border_color=e2e8f0&hide_border=false&rank_icon=github&count_private=true&custom_title=GitHub+Activity"/>
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=475569&border_color=e2e8f0&hide_border=false&custom_title=What+I+Write"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexchen&bg_color=0a0a0a&color=22c55e&line=16a34a&point=4ade80&area=true&hide_border=true&area_color=052e16" width="100%"/>
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=alexchen&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=14532d&count_private=true"/>
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=alexchen&theme=dark&background=0a0a0a&border=14532d&ring=22c55e&fire=4ade80&currStreakLabel=22c55e&sideLabels=86efac&dates=166534&currStreakNum=22c55e&sideNums=4ade80"/>
 
 </div>
 
 <br/>
 
----
+```bash
+$ ps aux | grep "current_projects"
+```
 
-### On the internet
-
-<div align="center">
-
-[![Twitter / X](https://img.shields.io/badge/𝕏%20%40alexchen-f8fafc?style=flat-square&logoColor=0f172a&color=f8fafc&labelColor=f1f5f9)](https://twitter.com)&nbsp;&nbsp;
-[![Newsletter](https://img.shields.io/badge/Newsletter-f8fafc?style=flat-square&color=f8fafc&labelColor=f1f5f9)](https://substack.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8fafc?style=flat-square&logo=linkedin&logoColor=0f172a&color=f8fafc&labelColor=f1f5f9)](https://linkedin.com)&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/alexchen.dev-f8fafc?style=flat-square&color=f8fafc&labelColor=f1f5f9)](https://alexchen.dev)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexchen&style=flat-square&color=94a3b8&label=readers)
-
-</div>
+```
+PID    NAME          STATUS    DESCRIPTION
+1337   forge-cli     RUNNING   terminal-based PR review tool (TypeScript)
+4200   atlas-gl      ACTIVE    WebGL geographic data viz library
+8080   tempo-app     STAGING   async standups for distributed teams
+9999   this-readme   COMPLETE  you are here
+```
 
 <br/>
 
----
+```bash
+$ curl -s https://api.alexchen.dev/contact | jq
+```
+
+```json
+{
+  "twitter": "@alexchen",
+  "linkedin": "linkedin.com/in/alexchen",
+  "email": "hey@alexchen.dev",
+  "website": "alexchen.dev",
+  "status": "open to interesting conversations",
+  "response_time": "usually < 24h on weekdays"
+}
+```
+
+<br/>
+
+```bash
+$ exit
+```
+
+```
+logout
+Connection to alexchen.dev closed.
+
+-- Thanks for reading. May your builds be green. --
+```
 
 <div align="center">
-<sub>Last updated manually. I don't trust bots with my README.</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alexchen&style=flat-square&color=22c55e&label=connections)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3&section=footer" width="100%"/>
+
 </div>
