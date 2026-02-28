@@ -1,5 +1,3 @@
-```markdown
-<!-- ================= HERO ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jimmy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -13,7 +11,6 @@
 
 ## 🧠 About
 
-```
 
 Signal > Noise
 Execution > Excuses
@@ -50,16 +47,12 @@ I refine until they feel inevitable.
 
 ## 🧬 Workflow
 
-```mermaid
 graph LR
 A[Idea] --> B[Design]
 B --> C[Build]
 C --> D[Ship]
 D --> E[Refine]
 E --> A
-````
-
----
 
 ## 🕶️ Current Mode
 
