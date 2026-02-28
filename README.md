@@ -112,7 +112,7 @@ I write mostly TypeScript. I reach for Python when I need ML. I've shipped thing
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=James-CodeX&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=0d2137" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=James-CodeX&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=0d2137&days=365" width="98%"/>
 
 </div>
 
