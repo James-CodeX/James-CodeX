@@ -16,7 +16,6 @@ Signal > Noise
 Execution > Excuses
 Systems > Chaos
 
-````
 
 I design things that work.  
 I build things that ship.  
