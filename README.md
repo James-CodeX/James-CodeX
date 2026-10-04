@@ -2,18 +2,16 @@
 
 # James Karanja
 
-**Software Engineer building things for the web.**
+### Software Engineer
 
-`Backend` · `Full-Stack` · `Open Source`
+Building, shipping, and scaling things for the web.
 
-**[→ Visit my portfolio](https://portfolio.jimicore.tech/)**
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+**[→ portfolio.jimicore.tech](https://portfolio.jimicore.tech/)**
 
 <br>
 
-`[ build ]` ` [ ship ]` ` [ scale ]`
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+`build` · `ship` · `repeat`
 
 </div>
