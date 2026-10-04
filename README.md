@@ -1,6 +1,6 @@
 <div align="center">
 
-# James Karanja
+# James
 
 ### Software Engineer
 
