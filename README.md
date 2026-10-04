@@ -6,7 +6,7 @@
 
 Building, shipping, and scaling things for the web.
 
-**[→ portfolio.jimicore.tech](https://portfolio.jimicore.tech/)**
+**[→ check out my portfolio](https://portfolio.jimicore.tech/)**
 
 <br>
 
